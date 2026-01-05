@@ -1,0 +1,45 @@
+
+
+
+import java.util.Scanner;
+public class q13 {
+    public static void main(String args[])
+    {
+         int n,t,c;
+         Scanner x=new Scanner(System.in);
+         n=x.nextInt();
+         t=x.nextInt();
+         int a[][]=new int[n][t];
+         int b[]=new int[n];
+         for(int i=0;i<n;i++)
+         {
+            for(int j=0;j<t;j++)
+             a[i][j]=x.nextInt();
+         }
+         int m=0,k=0,y=0;
+         for(int i=0;i<n;i++)
+         {
+            c=0;
+             for(int j=0;j<t;j++)
+             {
+                    c=a[i][j]+c;
+             }
+             if(m<c){
+                m=c;k=i;
+             }
+            
+         }
+         for(int i=0;i<n;i++)
+         {
+            for(int j=0;j<t;j++)
+            {
+                if(i==k)
+                {
+                    System.out.print(a[i][j]+" ");
+                }
+            }
+         }
+         
+    }
+    
+}
