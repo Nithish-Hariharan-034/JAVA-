@@ -1,0 +1,50 @@
+1	1D - Arrays	Q1. Write a Java program to get the input from the user and print the array.
+2	1D - Arrays	Q2. Write a Java program to find the sum of elements in an array.
+3	1D - Arrays	Q3. Write a Java program to find the running sum of elements in an array.
+4	1D - Arrays	Q4. Write a Java program to find the sum of even numbers in an array.
+5	1D - Arrays	Q5. Write a Java program to find the alternate sum of an array (arr[0] - arr[1] + arr[2] - arr[3] + …).
+6	1D - Arrays	Q6. Write a Java program to count the number of odd elements in an array.
+7	1D - Arrays	Q7. Write a Java program to count the number of zeroes in an array.
+8	1D - Arrays	Q8. Write a Java program to move all zeroes to the end of the array in place.
+9	1D - Arrays	Q9. Write a Java program to move all negative numbers to the beginning of the array in place.
+10	1D - Arrays	Q10. Write a Java program to replace all negative numbers in an array with zero.
+11	1D - Arrays	Q11. Write a Java program to reverse an array.
+12	1D - Arrays	Q12. Write a Java program to reverse an array in place.
+13	1D - Arrays	Q13. Write a Java program to check if an array contains duplicate elements.
+14	1D - Arrays	Q14. Write a Java program to rearrange an array so that even numbers appear before odd numbers (in place).
+15	1D - Arrays	Q15. Write a Java program to check if an array is sorted in ascending order.
+16	1D - Arrays	Q16. Write a Java program to check if an array is sorted in descending order.
+17	1D - Arrays	Q17. Write a Java program to check if all elements in an array are distinct.
+18	1D - Arrays	Q18. Write a Java program to find the maximum element in an array.
+19	1D - Arrays	Q19. Write a Java program to find the minimum element in an array.
+20	1D - Arrays	Q20. Write a Java program to find the second maximum element in an array.
+21	1D - Arrays	Q21. Write a Java program to find the second minimum element in an array.
+22	1D - Arrays	Q22. Write a Java program to find the kth maximum element in an array of distinct elements.
+23	1D - Arrays	Q23. Write a Java program to find the kth minimum element in an array of distinct elements.
+24	1D - Arrays	Q24. Write a Java program to sort an array using Bubble Sort.
+25	1D - Arrays	Q25. Write a Java program to sort an array containing 0’s, 1’s, and 2’s using the Dutch National Flag algorithm.
+26	1D - Arrays	Q26. Write a Java program to find the missing number from 1 to n in an array.
+27	1D - Arrays	Q27. Write a Java program to find the first repeated element in an array.
+28	1D - Arrays	Q28. Write a Java program to find the first non-repeated element in an array.
+29	1D - Arrays	Q29. Write a Java program to find duplicate numbers in an array of size n+1.
+30	1D - Arrays	Q30. Write a Java program to remove duplicate elements from an array.
+31	1D - Arrays	Q31. Write a Java program to remove duplicate elements from an array without using extra space.
+32	1D - Arrays	Q32. Write a Java program to remove duplicate elements from a sorted array.
+33	1D - Arrays	Q33. Write a Java program to perform Binary Search on an array.
+34	1D - Arrays	Q34. Write a Java program to find the first and last occurrence of an element in an array.
+35	1D - Arrays	Q35. Write a Java program to merge two sorted arrays.
+36	1D - Arrays	Q36. Write a Java program to right rotate an array by k positions.
+37	1D - Arrays	Q37. Write a Java program to left rotate an array by k positions.
+38	1D - Arrays	Q38. Write a Java program to find a subarray with a given sum.
+39	1D - Arrays	Q39. Write a Java program to find the maximum length subarray with a given sum.
+40	1D - Arrays	Q40. Write a Java program to find the subarray with maximum sum (Kadane’s Algorithm).
+41	1D - Arrays	Q41. Write a Java program to find the subarray with maximum product.
+42	1D - Arrays	Q42. Write a Java program to find the most repeated element in an array.
+43	1D - Arrays	Q43. Write a Java program to find the majority element in an array (appearing more than n/2 times).
+44	1D - Arrays	Q44. Write a Java program to find all leader elements in an array.
+45	1D - Arrays	Q45. Write a Java program to check if an array is a palindrome.
+46	1D - Arrays	Q46. Write a Java program to find the longest subarray with equal number of 0’s and 1’s.
+47	1D - Arrays	Q47. Write a Java program to find the longest consecutive elements sequence in an array.
+48	1D - Arrays	Q48. Write a Java program to find the smallest positive missing number in an array.
+49	1D - Arrays	Q49. Write a Java program to find the largest positive missing number in an array.
+50	1D - Arrays	Q50. Write a Java program to find the median of two sorted arrays.

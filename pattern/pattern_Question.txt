@@ -1,0 +1,25 @@
+1	Pattrens	Q1.Write a Java program to print a square pattern.
+2	Pattrens	Q2.Write a Java program to print a hollow square pattern.
+3	Pattrens	Q3.Write a Java program to print a hollow square pattern with both diagonals.
+4	Pattrens	Q4.Write a Java program to print a right angle triangle pattern.
+5	Pattrens	Q5.Write a Java program to print a reverse right angle triangle pattern.
+6	Pattrens	Q6.Write a Java program to print a left angle triangle pattern.
+7	Pattrens	Q7.Write a Java program to print a reverse left angle triangle pattern.
+8	Pattrens	Q8.Write a Java program to print a pyramid pattern.
+9	Pattrens	Q9.Write a Java program to print a reverse pyramid pattern.
+10	Pattrens	Q10.Write a Java program to print a reverse hollow pyramid pattern.
+11	Pattrens	Q11.Write a Java program to print a hollow pyramid pattern.
+12	Pattrens	Q12.Write a Java program to print a full pyramid pattern.
+13	Pattrens	Q13.Write a Java program to print a reverse full pyramid pattern.
+14	Pattrens	Q14.Write a Java program to print a diamond pattern.
+15	Pattrens	Q15.Write a Java program to print a half diamond pattern.
+16	Pattrens	Q16.Write a Java program to print a reverse half diamond pattern.
+17	Pattrens	Q17.Write a Java program to print a hollow diamond pattern.
+18	Pattrens	Q18.Write a Java program to print a butterfly pattern.
+19	Pattrens	Q19.Write a Java program to print an hour glass pattern.
+20	Pattrens	Q20.Write a Java program to print a hollow hour glass pattern.
+21	Pattrens	Q21.Write a Java program to print a Zig-Zag pattern.
+22	Pattrens	Q22.Write a Java program to print Floyd’s Triangle.
+23	Pattrens	Q23.Write a Java program to print Pascal’s Triangle.
+24	Pattrens	Q24.Write a Java program to print a number palindrome pyramid.
+25	Pattrens	Q25.Write a Java program to print a reverse alphabet palindrome pyramid.
