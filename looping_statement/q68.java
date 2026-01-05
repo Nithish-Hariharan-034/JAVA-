@@ -1,0 +1,22 @@
+package looping_statement;
+import java.util.*;
+public class q68{
+
+     public static void main(String args[])
+     {
+           Scanner x=new Scanner(System.in);
+           int n,a=0,d=1,b=1,p=0;
+           n=x.nextInt();
+          for(int i=1;i<=n;i++)
+          {
+                p=a+b;
+                a=b;
+                b=p;
+               
+          }
+             System.out.print(p); 
+          
+           
+     }
+    
+}
